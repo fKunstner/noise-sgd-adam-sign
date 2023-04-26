@@ -1,0 +1,6 @@
+accelerate==0.5.1
+python-dotenv==0.19.2
+#
+transformers==4.9.1
+datasets==1.11.0
+huggingface-hub==0.0.12
